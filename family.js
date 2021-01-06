@@ -8,7 +8,7 @@ var lineHeight = 280;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
 var paddingAmount = 8;
-var photoDir = 'photos/'; // should end with slash
+var photoDir = 'fotos/'; // should end with slash
 
 // Rendering settings that user can change
 var includeAll = false;
@@ -747,14 +747,14 @@ function updateTreeInformation(layout, divs) {
                   + number + " " + description
                   + "</span>");
   }
-  process(descendants, "descendants", "text-descendant");
-  process(ancestors, "ancestors", "text-ancestor");
-  process(blood, "blood relatives", "text-blood");
-  process(others, "others", "text-other");
-  var result = 'Showing ';
+  process(descendants, "descendientes", "text-descendant");
+  process(ancestors, "antecesores", "text-ancestor");
+  process(blood, "parientes de sangre", "text-blood");
+  process(others, "otros", "text-other");
+  var result = 'Mostrando ';
   for (var i=0; i<counts.length; i++) {
     result += counts[i];
-    if (i==counts.length-2) result += " and ";
+    if (i==counts.length-2) result += " y ";
     if (i<counts.length-2) result += ", ";
   }
   result += ' (total '
