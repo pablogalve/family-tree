@@ -12,6 +12,7 @@ Andrea Galve Millán
  n: Profesión: Maestra
 Pablo Galve Millán
  l: 07/01/2000-
+ p: galve_millan_pablo.PNG
  n: Profesión: Estudiante
 José Galve Colás + Baltasara Cortés Aznar
  c: Consolación Galve Cortés, Carmen Galve Cortés, María Pilar Galve Cortés, Josefina Galve Cortés, Vicente Galve Cortés
@@ -23,13 +24,13 @@ Baltasara Cortés Aznar
  l: 06/01/1918-11/07/1978
  n: Panadera
 Consolación Galve Cortés
- l: 12/03/1940
+ l: 12/03/1940-
  n: Panadera
 Carmen Galve Cortés
- l: 29/05/1943
+ l: 29/05/1943-
+ n: Panadera
 María Pilar Galve Cortés
- l: 31/07/1948
- n: S/L
+ l: 31/07/1948-
 Josefina Galve Cortés
- l: 15/03/1954
+ l: 15/03/1954-
  n: Tienda
