@@ -1,4 +1,4 @@
-﻿Vicente Galve Cortés + Marisa Millán Claramonte
+﻿Vicente Galve Cortés + María Luisa Millán Claramonte
  c: Pablo Galve Millán, Andrea Galve Millán
  n: Boda: 29/06/1985
 Vicente Galve Cortés
@@ -34,3 +34,11 @@ María Pilar Galve Cortés
 Josefina Galve Cortés
  l: 15/03/1954-
  n: Tienda
+Jesús Millán Castel + María Luisa Claramonte Gracia
+ c: María Jesús Millán Claramonte, Nicolás Millán Claramonte, María Dolores Millán Claramonte, María Luisa Millán Claramonte
+Jesús Millán Castel
+ l: 1920-18/03/2002
+ n: Agricultor
+María Luisa Claramonte Gracia
+ l: 2/02/1925-29/11/2017 
+ n: Agricultor
