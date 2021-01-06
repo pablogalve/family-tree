@@ -1,17 +1,25 @@
-Vicente Galve Cortés + Marisa Millán Claramonte
+﻿Vicente Galve Cortés + Marisa Millán Claramonte
  c: Pablo Galve Millán, Andrea Galve Millán
- n: Prueba
+ n: Boda: 29/06/1985
 Vicente Galve Cortés
- l: 1961
- n: Profesión: Prueba
+ l: 1961-
+ n: Profesión: Electricista
 Marisa Millán Claramonte
- l: 1965
- n: Profesión: Prueba
-Pablo Galve Millán
- l: 1994
- n: Profesión: Prueba
+ l: 1965-
+ n: Profesión: Administrativa
 Andrea Galve Millán
- l: 2000
- n: Profesión: Prueba
-
+ l: 1994-
+ n: Profesión: Maestra
+Pablo Galve Millán
+ l: 2000-
+ n: Profesión: Estudiante
+José Galve Colás + Baltasara Cortés Aznar
+ c: Consolación Galve Cortés, Carmen Galve Cortés, Mara Pilar Galve Cortés, Josefina Galve Cortés, Vicente Galve Cortés
+ n: Boda: 1940
+José Galve Colás
+ l: 1913-2007
+ n: Albañil, Panadero
+Baltasara Cortés Aznar
+ l: 1918-1978
+ n: Panadera
 
