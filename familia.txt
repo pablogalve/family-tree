@@ -20,6 +20,7 @@ José Galve Colás + Baltasara Cortés Aznar
 José Galve Colás
  l: 19/03/1913-20/03/2007
  n: Albañil, Panadero
+ p: galve_colas_jose.PNG
 Baltasara Cortés Aznar
  l: 06/01/1918-11/07/1978
  n: Panadera
