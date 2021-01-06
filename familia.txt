@@ -19,27 +19,27 @@ José Galve Colás + Baltasara Cortés Aznar
  n: Boda: 7/10/1939
 José Galve Colás
  l: 19/03/1913-20/03/2007
- n: Albañil, Panadero
+ n: Profesión: Albañil, Panadero
  p: galve_colas_jose.PNG
 Baltasara Cortés Aznar
  l: 06/01/1918-11/07/1978
- n: Panadera
+ n: Profesión: Panadera
 Consolación Galve Cortés
  l: 12/03/1940-
- n: Carnicera, Panadera
+ n: Profesión: Carnicera, Panadera
 Carmen Galve Cortés
  l: 29/05/1943-
- n: Panadera
+ n: Profesión: Panadera
 María Pilar Galve Cortés
  l: 31/07/1948-
 Josefina Galve Cortés
  l: 15/03/1954-
- n: Tienda
+ n: Profesión: Tienda
 Jesús Millán Castel + María Luisa Claramonte Gracia
  c: María Jesús Millán Claramonte, Nicolás Millán Claramonte, María Dolores Millán Claramonte, Marisa Millán Claramonte
 Jesús Millán Castel
  l: 1920-18/03/2002
- n: Agricultor
+ n: Profesión: Agricultor
 María Luisa Claramonte Gracia
  l: 2/02/1925-29/11/2017 
- n: Agricultor
+ n: Profesión: Agricultor
