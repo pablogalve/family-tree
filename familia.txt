@@ -14,7 +14,7 @@ Pablo Galve Millán
  l: 2000-
  n: Profesión: Estudiante
 José Galve Colás + Baltasara Cortés Aznar
- c: Consolación Galve Cortés, Carmen Galve Cortés, Mara Pilar Galve Cortés, Josefina Galve Cortés, Vicente Galve Cortés
+ c: Consolación Galve Cortés, Carmen Galve Cortés, Maria Pilar Galve Cortés, Josefina Galve Cortés, Vicente Galve Cortés
  n: Boda: 1940
 José Galve Colás
  l: 1913-2007
