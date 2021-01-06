@@ -1,10 +1,10 @@
-﻿Vicente Galve Cortés + María Luisa Millán Claramonte
+﻿Vicente Galve Cortés + Marisa Millán Claramonte
  c: Pablo Galve Millán, Andrea Galve Millán
  n: Boda: 29/06/1985
 Vicente Galve Cortés
  l: 1/09/1961-
  n: Profesión: Electricista
-María Luisa Millán Claramonte
+Marisa Millán Claramonte
  l: 8/01/1965-
  n: Profesión: Administrativa
 Andrea Galve Millán
@@ -36,7 +36,7 @@ Josefina Galve Cortés
  l: 15/03/1954-
  n: Tienda
 Jesús Millán Castel + María Luisa Claramonte Gracia
- c: María Jesús Millán Claramonte, Nicolás Millán Claramonte, María Dolores Millán Claramonte, María Luisa Millán Claramonte
+ c: María Jesús Millán Claramonte, Nicolás Millán Claramonte, María Dolores Millán Claramonte, Marisa Millán Claramonte
 Jesús Millán Castel
  l: 1920-18/03/2002
  n: Agricultor
