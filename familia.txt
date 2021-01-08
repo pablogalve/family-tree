@@ -53,9 +53,9 @@ Francisco García Carmona
  n: Profesiones: Carnicero, metalúrgico, panadero 
 María Dolores García Galve
  l: 16/08/1962-
-Baltasara García Galve
- l: 25/08/1963-
  p: garcia_galve_loli.jpg
+Baltasara García Galve
+ l: 25/08/1963- 
 Manuel García Galve
  l: 29/01/1965
  n: Profesión: Panadero, Ganadero(conejos)
