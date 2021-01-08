@@ -10,6 +10,7 @@ Marisa Millán Claramonte
 Andrea Galve Millán
  l: 30/04/1994-
  n: Profesión: Maestra
+ p: galve_millan_andrea.jpg
 Pablo Galve Millán
  l: 07/01/2000-
  p: galve_millan_pablo.PNG
@@ -26,9 +27,11 @@ Baltasara Cortés Aznar
  n: Profesión: Panadera
 Consolación Galve Cortés
  l: 12/03/1940-
+ p: galve_cortes_consolacion.jpg
  n: Profesión: Carnicera, Panadera
 Carmen Galve Cortés
  l: 29/05/1943-
+ p: galve_cortes_carmen.jpg
  n: Profesión: Panadera
 María Pilar Galve Cortés
  l: 31/07/1948-
