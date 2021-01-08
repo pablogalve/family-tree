@@ -10,7 +10,7 @@ Marisa Millán Claramonte
 Andrea Galve Millán
  l: 30/04/1994-
  n: Profesión: Maestra
- p: galve_millan_andrea.JPG
+ p: galve_millan_andrea.jpg
 Pablo Galve Millán
  l: 07/01/2000-
  p: galve_millan_pablo.PNG
