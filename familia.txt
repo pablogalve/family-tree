@@ -48,20 +48,20 @@ María Luisa Claramonte Gracia
  n: Profesión: Agricultor
 Francisco García Carmona + Consolación Galve Cortés
  n: Boda: 12/10/1961
-MaríaDolores García Galve, Baltasara García Galve, Manuel García Galve, Celia García Galve, Cristina García Galve
+ c: María Dolores García Galve, Baltasara García Galve, Manuel García Galve, Celia García Galve, Cristina García Galve
 Francisco García Carmona
  l: 1940? 
  n: Carnicero, metalúrgico, panadero 
-MaríaDolores García Galve
+María Dolores García Galve
  l: 16/08/1962-
 Baltasara García Galve
- l: 25/08/1963
+ l: 25/08/1963-
 Manuel García Galve
  l: 29/01/1965
  n: Profesión: Panadero, Ganadero(conejos)
 Celia García Galve
- l: 4/09/1966
+ l: 4/09/1966-
  n: Administrativa
 Cristina García Galve
- l: 5/06/1969
+ l: 5/06/1969-
 
