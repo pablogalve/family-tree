@@ -46,22 +46,5 @@ Jesús Millán Castel
 María Luisa Claramonte Gracia
  l: 2/02/1925-29/11/2017 
  n: Profesión: Agricultor
-Francisco García Carmona + Consolación Galve Cortés
- c: María Dolores García Galve, Baltasara García Galve, Manuel García Galve, Celia García Galve, Cristina García Galve
- n: Boda: 12/10/1961
-Francisco García Carmona 
- n: Carnicero, metalúrgico, panadero 
-María Dolores García Galve
- l: 16/08/1962-
-Baltasara García Galve
- l: 25/08/1963-
- p: garcia_galve_loli.jpg
-Manuel García Galve
- l: 29/01/1965
- n: Profesión: Panadero, Ganadero(conejos)
-Celia García Galve
- l: 4/09/1966-
- n: Administrativa
-Cristina García Galve
- l: 5/06/1969-
+Consolación Galve Cortés + Francisco García Carmona
 
