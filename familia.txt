@@ -36,8 +36,10 @@ Carmen Galve Cortés
  n: Profesión: Panadera
 María Pilar Galve Cortés
  l: 31/07/1948-
+ p: galve_cortes_pili.jpg
 Josefina Galve Cortés
  l: 15/03/1954-
+ p: galve_cortes_josefina.jpg
  n: Profesión: Tienda
 Jesús Millán Castel + María Luisa Claramonte Gracia
  c: María Jesús Millán Claramonte, Nicolás Millán Claramonte, María Dolores Millán Claramonte, Marisa Millán Claramonte
