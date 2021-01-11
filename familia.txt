@@ -24,6 +24,7 @@ José Galve Colás
  p: galve_colas_jose.PNG
 Baltasara Cortés Aznar
  l: 06/01/1918-11/07/1978
+ p: cortes_aznar_baltasara.jpg
  n: Profesión: Panadera
 Consolación Galve Cortés
  l: 12/03/1940-
