@@ -88,14 +88,15 @@ María Pilar Galve Cortés + Alfredo Azuara Tobar
 Alfredo Azuara Tobar
  l: 10/12/1944-
  n: Profesión: Soldador
+ p: Azuara_tobar_alfredo.jpg
 Sara Azuara Galve
  l: 4/05/1978
  n: Profesión: Arqueología
- p: Azuara_galve_sara
+ p: Azuara_galve_sara.jpg
 Alfredo José Azuara Galve
  l: 20/09/1979
  n: Profesión: Geólogo
- p: Azuara_galve_alfredo
+ p: Azuara_galve_alfredo.jpg
 
 
 
