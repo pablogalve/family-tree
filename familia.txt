@@ -4,9 +4,11 @@
 Vicente Galve Cortés
  l: 1/09/1961-
  n: Profesión: Electricista
+ p: galve_cortes_vicente.jpg
 Marisa Millán Claramonte
  l: 8/01/1965-
  n: Profesión: Administrativa
+ p: millan_claramonte_marisa.jpg
 Andrea Galve Millán
  l: 30/04/1994-
  n: Profesión: Maestra
@@ -50,13 +52,13 @@ María Luisa Claramonte Gracia
  l: 2/03/1925-29/11/2017 
  n: Profesión: Agricultor
 María Jesús Millán Claramonte
- l: 8/06/1946
+ l: 8/06/1946-
 Nicolás Millán Claramonte
- l: 30/11/1948
+ l: 30/11/1948-
  n: Estudios:
  n: Profesión: Profesor
 María Dolores Millán Claramonte
- l: 3/06/1951
+ l: 3/06/1951-
  n: Profesión: Tienda
 Consolación Galve Cortés + Francisco García Carmona
  c: María Dolores García Galve, Baltasara García Galve, Manuel García Galve, Celia García Galve, Cristina García Galve
