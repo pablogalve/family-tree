@@ -71,15 +71,19 @@ María Dolores García Galve
  l: 16/08/1962-
  p: garcia_galve_loli.jpg
 Baltasara García Galve
- l: 25/08/1963- 
+ l: 25/08/1963-
+ p: garcia_galve_sara.jpg 
 Manuel García Galve
- l: 29/01/1965
+ l: 29/01/1965-
+ p: garcia_galve_manolo.jpg
  n: Profesión: Panadero, Ganadero(conejos)
 Celia García Galve
  l: 4/09/1966-
+ p: garcia_galve_celia.jpg
  n: Profesión:  Administrativa
 Cristina García Galve
  l: 5/06/1969-
+ p: garcia_galve_cristina.jpg
 Carmen Galve Cortés + Ramón Calomarde Torres
  c: Esteban Calomarde Galve, Nuria Calomarde Galve, José Ramón Calomarde Galve
 Ramón Calomarde Torres
