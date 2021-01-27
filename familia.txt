@@ -137,10 +137,10 @@ Vicente Cortés Marzo + Clara Aznar Millán
 Generoso Galve Pérez
  l: 1987-1958
  n: Profesión: Albañil
- p: galve_perez_generoso
+ p: galve_perez_generoso.jpg
 Juana Colás Julve
  l: 23/06/1890-¿
- p: colas_julve_juana
+ p: colas_julve_juana.jpg
 Vicente Cortés Marzo
  l: ¿-1924 ó 1925
  n: Profesión: Agricultor
