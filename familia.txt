@@ -106,34 +106,48 @@ Alfredo Azuara Tobar
  n: Profesión: Soldador
  p: azuara_tobar_alfredo.jpg
 Sara Azuara Galve
- l: 4/05/1978
+ l: 4/05/1978-
  n: Profesión: Arqueología
  p: azuara_galve_sara.jpg
 Alfredo José Azuara Galve
- l: 20/09/1979
+ l: 20/09/1979-
  n: Profesión: Geólogo
  p: azuara_galve_alfredo.jpg
 Josefina Galve Cortés + Domingo Abril Veses
  c: Miriam Abril Galve, Paula Abril Galve
  n: Boda: 1980
 Domingo Abril Veses
- l: 5/02/1951
+ l: 5/02/1951-
  n: Profesión: Administrativo (Cervezas El Aguila) Tienda 
  p: abril_veses_domingo.jpg
 Miriam Abril Galve
- l: 14/03/1982
+ l: 14/03/1982-
  n: Estudios: Química
  p: abril_galve_miriam.jpg
 Paula Abril Galve
- l: 3/09/1986
+ l: 3/09/1986-
  n: Estudios: Química
  p: abril_galve_paula.jpg
 Generoso Galve Pérez + Juana Colás Julve
- c: José Galve Colás, Eusebio Galve Colás, Fermín Galve Colás, Vitoria Galve Colás, Marano Galve Colás, María Galve Colás, Alberto Galve Colás, Pedro Galve Colás, Agustín Galve Colás, Aurora Galve Colás
+ c: José Galve Colás, Eusebio Galve Colás, Fermín Galve Colás, Vitoria Galve Colás, Mariano Galve Colás, María Galve Colás, Alberto Galve Colás, Pedro Galve Colás, Agustín Galve Colás, Aurora Galve Colás
  n: Boda: 1912
 Vicente Cortés Marzo + Clara Aznar Millán
  c: Martín Cortés Aznar, Cristina Cortés Aznar, Fermín Cortés Aznar, Cesarea Cortés Aznar, Baltasara Cortés Aznar
  n: Boda: 1897 ¿
+Generoso Galve Perez
+ l: 1987-1958
+ n: Profesión: Albañil
+ p: galve_perez_generoso
+Juana Colás Julve
+ l: 23/06/1890-¿
+ p: colas_julve_juana
+Vicente Cortés Marzo
+ l: ¿-1924 ó 1925
+ n: Profesión: Agricultor
+Clara Aznar Millán
+ l: ¿-Feb 1941 
+Joaquín Cortés + Benita Marzo
+ c: Vicente Cortés Marzo
 
 
 
