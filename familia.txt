@@ -134,7 +134,7 @@ Generoso Galve Pérez + Juana Colás Julve
 Vicente Cortés Marzo + Clara Aznar Millán
  c: Martín Cortés Aznar, Cristina Cortés Aznar, Fermín Cortés Aznar, Cesarea Cortés Aznar, Baltasara Cortés Aznar
  n: Boda: 1897 ¿
-Generoso Galve Perez
+Generoso Galve Pérez
  l: 1987-1958
  n: Profesión: Albañil
  p: galve_perez_generoso
