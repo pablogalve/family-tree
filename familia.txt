@@ -17,7 +17,7 @@ Pablo Galve Millán
  l: 07/01/2000-
  p: galve_millan_pablo.PNG
  n: Profesión: Estudiante
- n: Álbum de fotos: albumes/galve_millan_pablo.html
+ n: Álbum de fotos: <a href="https://www.w3schools.com">Visit W3Schools</a>
 José Galve Colás + Baltasara Cortés Aznar
  c: Consolación Galve Cortés, Carmen Galve Cortés, María Pilar Galve Cortés, Josefina Galve Cortés, Vicente Galve Cortés
  n: Boda: 7/10/1939
