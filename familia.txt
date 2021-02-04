@@ -5,14 +5,17 @@ Vicente Galve Cortés
  l: 1/09/1961-
  n: Profesión: Electricista
  p: galve_cortes_vicente.jpg
+ n: Álbum de fotos: https://pablogalve.github.io/family-tree/albumes/galve_cortes_vicente
 Marisa Millán Claramonte
  l: 8/01/1965-
  n: Profesión: Administrativa
  p: millan_claramonte_marisa.jpg
+ n: Álbum de fotos: https://pablogalve.github.io/family-tree/albumes/millan_claramonte_marisa
 Andrea Galve Millán
  l: 30/04/1994-
  n: Profesión: Maestra
  p: galve_millan_andrea.jpg
+ n: Álbum de fotos: https://pablogalve.github.io/family-tree/albumes/galve_millan_andrea
 Pablo Galve Millán
  l: 07/01/2000-
  p: galve_millan_pablo.PNG
