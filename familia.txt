@@ -9,7 +9,7 @@ Vicente Galve Cortés
 Marisa Millán Claramonte
  l: 8/01/1965-
  n: Profesión: Administrativa
- p: fotos/millan_claramonte_marisa/2020.jpg
+ p: millan_claramonte_marisa.jpg
  n: Álbum de fotos: https://pablogalve.github.io/family-tree/albumes/millan_claramonte_marisa
 Andrea Galve Millán
  l: 30/04/1994-
